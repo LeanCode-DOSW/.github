@@ -1,4 +1,11 @@
 ## Hi there 👋
+* ​​[ANDRES FELIPE CARDOZO MARTINEZ​](https://github.com/Andrew7480) → <andres.cardozo-m@mail.escuelaing.edu.co>
+* [JACOBO DIAZ ALVARADO​](https://github.com/Jacobo2025) → <jacobo.diaz-a@mail.escuelaing.edu.co>
+* [JUAN CAMILO CRISTANCHO VELASQUEZ​](https://github.com/CamilowGod4564) → <juan.cristancho-v@mail.escuelaing.edu.co>
+* [JUAN DIEGO RODRÍGUEZ VELÁSQUEZ​](https://github.com/JuanDiegoRV) → <juan.guayazan-c@mail.escuelaing.edu.co>
+* [JUAN DAVID SILVA CAMACHO​](https://github.com/JuanSilvaaa) → <juan.rvelasquez@mail.escuelaing.edu.co>
+* [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO​](https://github.com/JuanGuayazanC) → <juan.guayazan-c@mail.escuelaing.edu.co>
+
 Desarrollo y Operaciones Software (ISIS DOSW-3 y DOSW-301) [DOSW COMPANY]      
 Decanatura Ingeniería de Sistemas     
 Ingeniería de Sistemas       
