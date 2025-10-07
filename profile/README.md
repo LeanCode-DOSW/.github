@@ -6,7 +6,7 @@
 * [JUAN DAVID SILVA CAMACHO​](https://github.com/JuanSilvaaa) → <juan.rvelasquez@mail.escuelaing.edu.co>
 * [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO​](https://github.com/JuanGuayazanC) → <juan.guayazan-c@mail.escuelaing.edu.co>
 
-Desarrollo y Operaciones Software (ISIS DOSW-3 y DOSW-301) [DOSW COMPANY]      
+Desarrollo y Operaciones Software (ISIS DOSW-3 y DOSW-301)      
 Decanatura Ingeniería de Sistemas     
 Ingeniería de Sistemas       
 Escuela Colombiana de Ingeniería Julio Garavito        
