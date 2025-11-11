@@ -1,4 +1,13 @@
-## Hi there 👋
+# SIRHA - Sistema de Reasignación de Horarios Académicos
+
+> ⚠️ Estado: ***EN DESARROLLO*** Versión académica
+
+Sistema de información desarrollado para la gestión académica de estudiantes en cambio de materias o grupos
+
+---
+
+## 👥 Autores
+PABLO ANDRES MELO GARCIA
 * ​​[ANDRES FELIPE CARDOZO MARTINEZ​](https://github.com/Andrew7480) → <andres.cardozo-m@mail.escuelaing.edu.co>
 * [JACOBO DIAZ ALVARADO​](https://github.com/Jacobo2025) → <jacobo.diaz-a@mail.escuelaing.edu.co>
 * [JUAN CAMILO CRISTANCHO VELASQUEZ​](https://github.com/CamilowGod4564) → <juan.cristancho-v@mail.escuelaing.edu.co>
